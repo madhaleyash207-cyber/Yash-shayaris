@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Yash Shayari</string>
+    <string name="app_tagline">मनातील भावना शब्दांत…</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_create">Create</string>
+
+    <!-- Home Screen -->
+    <string name="daily_shayari_badge">आजची खास शायरी • Daily Shayari</string>
+    <string name="daily_shayari_next">Next Daily Shayari</string>
+    <string name="search_placeholder">Search Marathi shayari, Love, Dosti…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="search_results_title">Search Results (%1$d)</string>
+    <string name="search_empty_title">No matching shayari found</string>
+    <string name="search_empty_subtitle">Try searching \"prem\", \"dosti\", \"attitude\", or Marathi words.</string>
+    <string name="categories_section_title">Explore Categories</string>
+    <string name="categories_section_subtitle">विविध भावनांचा सुंदर संग्रह</string>
+    <string name="shayari_count_label">%1$d Shayaris</string>
+
+    <!-- Categories -->
+    <string name="cat_love_title">Love</string>
+    <string name="cat_love_marathi">प्रेम</string>
+    <string name="cat_love_desc">हृदयाच्या हळव्या भावना</string>
+    <string name="cat_sad_title">Sad</string>
+    <string name="cat_sad_marathi">विरह</string>
+    <string name="cat_sad_desc">मनातील खोल आठवणी</string>
+    <string name="cat_dosti_title">Dosti</string>
+    <string name="cat_dosti_marathi">मैत्री</string>
+    <string name="cat_dosti_desc">अतूट साथ आणि विश्वास</string>
+    <string name="cat_attitude_title">Attitude</string>
+    <string name="cat_attitude_marathi">स्वॅग</string>
+    <string name="cat_attitude_desc">स्वाभिमान आणि रुबाब</string>
+    <string name="cat_custom_title">My Shayari</string>
+    <string name="cat_custom_marathi">माझी शायरी</string>
+
+    <!-- Home Create CTA -->
+    <string name="home_create_title">Create Your Own Shayari</string>
+    <string name="home_create_subtitle">तुमचे शब्द, तुमची शायरी — Write &amp; preview live card</string>
+    <string name="home_create_button">Open Studio</string>
+
+    <!-- Shayari Card Actions -->
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_unfavorite">Remove favorite</string>
+    <string name="action_delete">Delete</string>
+    <string name="copied_snackbar">Shayari copied to clipboard!</string>
+    <string name="saved_snackbar">Your shayari has been saved!</string>
+    <string name="deleted_snackbar">Custom shayari deleted</string>
+    <string name="favorite_added_snackbar">Added to Favorites</string>
+    <string name="favorite_removed_snackbar">Removed from Favorites</string>
+    <string name="share_chooser_title">Share Marathi Shayari</string>
+
+    <!-- Category Detail Screen -->
+    <string name="back_button_desc">Navigate back</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorite Shayaris</string>
+    <string name="favorites_subtitle">तुमच्या आवडत्या निवडक शायरी</string>
+    <string name="favorites_empty_title">No Favorites Yet</string>
+    <string name="favorites_empty_subtitle">Tap the heart icon on any Marathi shayari to save it here for quick sharing.</string>
+    <string name="favorites_browse_cta">Explore Shayaris</string>
+
+    <!-- Create Your Own Shayari Studio -->
+    <string name="create_title">Create Your Own Shayari</string>
+    <string name="create_subtitle">शब्दांना द्या सुंदर रूप • Live Preview Studio</string>
+    <string name="live_preview_label">LIVE PREVIEW</string>
+    <string name="preview_placeholder_text">येथे तुमची सुंदर मराठी शायरी लिहा…\nतिचे जिवंत रूप वर दिसेल.</string>
+    <string name="input_shayari_label">Write your Shayari</string>
+    <string name="input_shayari_hint">मन मोकळं करून लिहा (मराठी / English)…</string>
+    <string name="input_author_label">Author Signature (Optional)</string>
+    <string name="input_author_hint">e.g. यश</string>
+    <string name="select_category_label">Category Tag</string>
+    <string name="select_card_style_label">Card Color Style</string>
+    <string name="save_shayari_button">Save Shayari</string>
+    <string name="clear_draft_button">Clear</string>
+    <string name="my_creations_title">My Created Shayaris (%1$d)</string>
+    <string name="my_creations_empty">Write your first Marathi shayari above and tap Save to keep it in your collection.</string>
+    <string name="error_empty_shayari">Please write some shayari text before saving.</string>
+</resources>

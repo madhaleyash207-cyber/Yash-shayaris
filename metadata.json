@@ -1,0 +1,6 @@
+{
+  "name": "Yash Shayari",
+  "description": "A Marathi Shayari app featuring Love, Sad, Dosti, and Attitude collections, daily featured shayari, search, favorites, and a custom shayari studio with live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
